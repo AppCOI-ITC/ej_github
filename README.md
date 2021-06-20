@@ -14,9 +14,9 @@ porque la idea es que lo suban directamente desde Visual Studio code o el CMD
 bien antes de comenzar con el ejercicio van a tener que instalar GIT
 https://git-scm.com/downloads ,una vez instalado, en VScode aparecera un simbolito 
 nuevo entre el debugger y la lupa de busqueda, en ese lugar se mostraran las 
-modificaciones a los archivos en otros editores de texto 
+modificaciones a los archivos
 
-el comando que tendran que usar para poder clonar el repositorio desde el CMD es:
+el comando que tendran que usar para poder clonar el repositorio desde el CMD o desde la ventana de comandos de VScode es:
 - git clone [url del repositorio]
 
 una vez descargado se encontraran con el siguiente grupo de archivos:
